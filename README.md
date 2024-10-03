@@ -1,4 +1,4 @@
-![](src/wallpaper.jpg)
+![](src/wallpaper2.jpg)
 ## Hey, I'm Tim!
 I do some random projects around the place! That being primarily backend stuff. I mainly use Type/javascript, python, lua and bash.
 
