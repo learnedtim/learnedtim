@@ -5,7 +5,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=learnedtim&theme=merko" />
   </a>
   <a href="https://github.com/learnedtim2003">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=learnedtim&layout=compact&langs_count=8&card_width=300&theme=merko" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=learnedtim&layout=compact&langs_count=8&card_width=200&theme=merko" />
   </a>  
 </p>
 * I do random projects here and there.
