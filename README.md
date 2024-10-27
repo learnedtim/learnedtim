@@ -2,7 +2,9 @@
 ## Hey, I'm Tim!
 I do some random projects around the place! That being primarily backend stuff. I mainly use Type/javascript, Python, Lua and Bash.
 
-I'm always open for commisions!  
+i mainly do this for fun, but im always open for commisions!
+
+not all of my projects will appear on here of course, but I will probably upload my smaller or public projects on here.
 
 ___
 ### Technologies
