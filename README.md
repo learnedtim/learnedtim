@@ -1,6 +1,6 @@
 ![](src/wallpaper.jpg)
 ## Hey, I'm Tim!
-I do some random projects around the place! That being primarily backend stuff. I mainly use Type/Javascript, Python, Lua and Bash.
+I do some random projects around the place! That being primarily backend stuff. I mainly use Type/Javascript, Python, C++, Lua and Bash.
 
 While I mainly do this for fun, I'm always open for commissions!
 
